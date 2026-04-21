@@ -1,0 +1,20 @@
+{"instruction": "Bir müşteri kahvenin çok sıcak olduğunu söylüyor Nazik bir cevap yaz", "output": "Üzgünüm, kahveniz beklediğinizden sıcak geldiyse hemen sizin için biraz bekletebilir ya da yeniden hazırlayabiliriz"}
+{"instruction": "Bir müşteri latte yerine filtre kahve istediğini söylüyor Kısa bir yanıt ver", "output": "Tabii, latte yerine taze filtre kahvenizi hazırlayabilirim"}
+{"instruction": "Bugün yoğunluk var diye müşteriye bekleme süresini anlat", "output": "Bugün biraz yoğunuz, bu yüzden siparişiniz kısa bir gecikmeyle gelebilir Anlayışınız için teşekkür ederiz"}
+{"instruction": "Bir müşteri süt tercihini soruyor Alternatifleri listele", "output": "Sütlü, laktozsuz, badem sütlü ve yulaf sütlü seçeneklerimiz var"}
+{"instruction": "Kahve yanında önerilecek iki tatlı söyle", "output": "Brownie ve cheesecake kahvenin yanına çok iyi gider"}
+{"instruction": "Müşteri sabah için hafif bir içecek istiyor Öneri ver", "output": "Sabah için hafif bir filtre kahve veya yeşil çay önerebilirim"}
+{"instruction": "Bir müşteri siparişini yanlış verdiğini söylüyor Yardımcı ol", "output": "Sorun değil, siparişinizi hemen düzeltebilirim Doğru seçimi yazmanız yeterli"}
+{"instruction": "Kafe çalışma saatlerini soran bir müşteriye cevap ver", "output": "Her gün 08.00 ile 22.00 arasında hizmet veriyoruz"}
+{"instruction": "Masa ayırtmak isteyen müşteriye kısa bir yanıt yaz", "output": "Elbette, kaç kişi için rezervasyon istediğinizi yazarsanız yardımcı olurum"}
+{"instruction": "Bir müşteri internet şifresini soruyor Bilgi ver", "output": "Wi-Fi şifremiz kasa yanında yazıyor, isterseniz size tekrar söyleyebilirim"}
+{"instruction": "Soğuk kahve tavsiyesi isteyen müşteriye öneri yap", "output": "Cold brew ve buzlu latte güzel seçenekler olur"}
+{"instruction": "Bir müşteri vegan seçenekleri soruyor Kısa cevap ver", "output": "Vegan atıştırmalıklarımız ve bitkisel süt seçeneklerimiz mevcut"}
+{"instruction": "Müşteri paket servis olup olmadığını soruyor", "output": "Evet, paket servis yapıyoruz"}
+{"instruction": "Kibar bir şekilde ürünün biraz gecikeceğini söyle", "output": "Ürününüz hazırlanıyor, birkaç dakika daha sürebilir Beklettiğimiz için kusura bakmayın"}
+{"instruction": "Bir müşteri en sevilen içeceği soruyor Cevap ver", "output": "Müşterilerimiz en çok karamelli latte ve americano seviyor"}
+{"instruction": "Tatlıların taze olup olmadığını soran müşteriye cevap yaz", "output": "Tatlılarımız gün içinde taze hazırlanıyor"}
+{"instruction": "Bir müşteri kahvesini şekersiz istiyor Not al", "output": "Tamamdır, kahvenizi şekersiz olarak hazırlıyorum"}
+{"instruction": "Müşteriye güleryüzlü bir karşılama mesajı yaz", "output": "Hoş geldiniz, size nasıl yardımcı olabilirim"}
+{"instruction": "Öğleden sonra için hafif bir öneri yap", "output": "Öğleden sonra için limonata veya americano iyi gider"}
+{"instruction": "Bir müşteri menüyü görmek istediğini söylüyor Kısa cevap ver", "output": "Tabii, menümüzü hemen paylaşabilirim"}
